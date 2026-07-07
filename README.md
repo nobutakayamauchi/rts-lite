@@ -1,10 +1,10 @@
 # rts-lite
 
-Status: ARCHIVE / EMPTY-PLACEHOLDER / DELETE CANDIDATE
+Status: INACTIVE / EMPTY-PLACEHOLDER / REVIEW ONLY
 
 This repository is currently an empty or near-empty placeholder.
 
-It is not RTS core.
+It is not the active RTS core repository.
 
 It is not RTS-AGE.
 
@@ -14,6 +14,6 @@ It is not an active product repository.
 
 ## Current Decision
 
-Do not expand this repository.
+Keep this repository minimal.
 
-Treat it as an archive/delete candidate unless a specific purpose is defined later.
+If a lightweight RTS reference is needed, use `RTS-Minimal-Runtime` instead.
